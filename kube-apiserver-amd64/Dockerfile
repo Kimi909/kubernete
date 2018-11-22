@@ -1,2 +1,4 @@
-FROM gcr.io/google_containers/kubernetes-apiserver-amd64:v1.9.0 
-MAINTAINER shayu
+FROM gcr.io/google_containers/kube-apiserver-amd64:v1.11.4 
+MAINTAINER kbp1234
+
+
